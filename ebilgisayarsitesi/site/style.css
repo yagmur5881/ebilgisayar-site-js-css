@@ -1,0 +1,105 @@
+* {
+    font-family: Arial;
+    margin: 0;
+    padding: 0;
+}
+html {
+    background-color:	#FFFFFF;
+	background : 	#FFFFFF;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+header {
+    background-color: #4384b1;
+    width: 100%;
+    display: inline-block;
+}
+.menu {
+    float: right;
+}
+.menu li {
+    display: inline-block;
+}
+.menu li a {
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 12px 18px;
+    display: inline-block;
+}
+.menu li a:hover {
+    background-color:  #EDE7F6;
+}
+.kutu {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+.logo {
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    padding: 7px 20px;
+    display: inline-block;
+}
+.logo:hover {
+    background-color:  #EDE7F6;
+}
+main {
+    padding: 30px 15px;
+    min-height: 770px;
+    background-color: white;
+}
+h1 {
+    text-align: center;
+    font-size: 36px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+h2 {
+    margin-top: 15px;
+}
+p {
+    margin-top: 15px;
+}
+.foto {
+    float: left;
+    margin: 0px 15px 15px 0;
+    padding: 5px;
+    
+    border: 1px solid  #EDE7F6;
+    border-radius: 2px;
+    width: calc(100% - 15px);
+    max-width: 400px;
+}
+
+.copyright {
+    font-size: 14px;
+    color: #c5def4;
+    text-align: center;
+    margin: 5px 0;
+}
+
+
+.adrs{
+	
+	background-color:white;
+}
+
+
+.resim{
+	
+	width:200;
+	height:350;
+}
+
+.yazı{
+	 margin-top: 15px;
+	 font-size: 14px;
+    color: black;
+    text-align: center;
+    margin: 5px 0;
+	
+}
